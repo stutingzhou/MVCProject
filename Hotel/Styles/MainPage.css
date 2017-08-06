@@ -1,0 +1,143 @@
+﻿body
+{
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-color:#F1F1F1;
+}
+#container
+{
+    width: 1000px;
+    margin: 0px auto 0px auto;
+    text-align: left;
+}
+#top
+{
+    width: 1000px;
+    height: 94px;
+    float: left;
+    background-image: url(../Images/topbg.png);
+}
+#nav
+{
+    width: 1000px;
+    height: 67px;
+    float: left;
+    background-image: url(../Images/navbg.jpg);
+}
+#navlink
+{
+    width: 850px;
+    float: left;
+    margin: 22px 0px 0px 67px;
+    display: inline;
+}
+#navlink ul
+{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+#navlink li
+{
+    text-align: center;
+    width: 85px;
+    float: left;
+}
+#navlink a
+{
+    display: block;
+    padding: 0px 6px 0px 6px;
+    margin: 7px 0px 9px 0px;
+    color: #FFFFFF;
+    font-size: 13px;
+    text-decoration: none;
+    border-right: 1px solid #CDDFF1;
+}
+#navlink .navLast
+{
+    border-right: 0px;
+    padding-right: 0px;
+}
+
+#navlink a:hover
+{
+    color: #E0EB1C;
+}
+#topflashDiv
+{
+    width: 1000px;
+    float: left;
+    background-color: #FFB70B;
+}
+#topflashbg
+{
+    width: 992px;
+    height: 280px;
+    float: left;
+    margin: 5px 4px 5px 4px;
+    display: inline;
+    background-image: url(../Images/topflash1.jpg);
+}
+#content
+{
+    width: 1000px;
+    background-color: #FFB70B;
+    float: left;
+}
+#footer
+{
+    width: 1000px;
+    height: 100px;
+    float: left;
+    background-color: #747B38;
+}
+#footercontent
+{
+    width: 600px;
+    float: left;
+    margin: 22px 0px 0px 300px;
+    display: inline;
+}
+#footercontent ul
+{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+#footercontent li
+{
+    text-align: center;
+    width: 65px;
+    float: left;
+}
+#footercontent a
+{
+    display: block;
+    padding: 0px 3px 0px 3px;
+    margin: 7px 0px 9px 0px;
+    color: #FFFFFF;
+    font-size: 12px;
+    text-decoration: none;
+    border-right: 1px solid #CDDFF1;
+}
+#footercontent a:hover
+{
+    text-decoration: underline;
+}
+#bq
+{
+    width: 600px;
+    float: left;
+    margin: 5px 0px 0px 355px;
+    display: inline;
+    color: #FFFFFF;
+}
+#footerbottom
+{
+    width: 1000px;
+    height: 40px;
+    float: left;
+    background-image: url(../Images/bg.jpg);
+}

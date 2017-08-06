@@ -1,0 +1,5 @@
+E:\VSProject\HotlePro\Models\bin\Debug\Models.dll
+E:\VSProject\HotlePro\Models\bin\Debug\Models.pdb
+E:\VSProject\HotlePro\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\VSProject\HotlePro\Models\obj\Debug\Models.dll
+E:\VSProject\HotlePro\Models\obj\Debug\Models.pdb

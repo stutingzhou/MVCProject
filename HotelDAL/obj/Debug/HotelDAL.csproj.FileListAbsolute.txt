@@ -1,0 +1,8 @@
+E:\VSProject\HotlePro\HotelDAL\bin\Debug\HotelDAL.dll
+E:\VSProject\HotlePro\HotelDAL\bin\Debug\HotelDAL.pdb
+E:\VSProject\HotlePro\HotelDAL\bin\Debug\Models.dll
+E:\VSProject\HotlePro\HotelDAL\bin\Debug\MySql.Data.dll
+E:\VSProject\HotlePro\HotelDAL\bin\Debug\Models.pdb
+E:\VSProject\HotlePro\HotelDAL\obj\Debug\HotelDAL.csprojResolveAssemblyReference.cache
+E:\VSProject\HotlePro\HotelDAL\obj\Debug\HotelDAL.dll
+E:\VSProject\HotlePro\HotelDAL\obj\Debug\HotelDAL.pdb
